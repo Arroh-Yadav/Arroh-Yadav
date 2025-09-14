@@ -4,6 +4,8 @@ I'm currently a first-year BTech undergraduate student passionate about frontend
 
 My favorite project so far is [Majour-Project](https://github.com/Arroh-Yadav/Majour-Project), which I'm continually improving—it truly means a lot to me.
 
+I've also earned a badgr of Postman API fundamental student expert [CANVAS badges](https://badgr.com/public/assertions/reliDDekRnOUTF7B-JQ8pQ)
+
 I'm committed to personal growth and won't stop until I become the best version of myself, both technically and personally. Although I sometimes feel exhausted from working intensely on my development skills and mastering DSA alongside managing my academics, I believe persistence pays off.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/arroh-yadav-b13b70300/)!
