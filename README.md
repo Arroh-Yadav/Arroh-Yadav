@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm Arroh Yadav
+
+I'm currently a first-year BTech undergraduate student passionate about frontend development. My strongest skillset is in the MERN stack, and I love creating engaging web experiences.
+
+My favorite project so far is [Majour-Project](https://github.com/Arroh-Yadav/Majour-Project), which I'm continually improving—it truly means a lot to me.
+
+I'm committed to personal growth and won't stop until I become the best version of myself, both technically and personally. Although I sometimes feel exhausted from working intensely on my development skills and mastering DSA, I believe persistence pays off.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/arroh-yadav-b13b70300/)!
+
+---
 
 <!--
 **Arroh-Yadav/Arroh-Yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
