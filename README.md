@@ -1,8 +1,9 @@
 # Hi there 👋 I'm Arroh Yadav
 
-I'm currently a first-year BTech undergraduate student passionate about frontend development. My strongest skillset is in the MERN stack, and I love creating engaging web experiences.
+I'm currently a sophmore BTech undergraduate student passionate about frontend development. My strongest skillset is in the MERN stack, and I love creating engaging web experiences.
 
 My favorite project so far is [Majour-Project](https://github.com/Arroh-Yadav/Majour-Project), which I'm continually improving—it truly means a lot to me.
+- 🔭 I’m currently working on [Assignment-feedback-loop](https://github.com/Arroh-Yadav/Assignment-feedback-loop)
 
 I'm committed to personal growth and won't stop until I become the best version of myself, both technically and personally. Although I sometimes feel exhausted from working intensely on my development skills and mastering DSA alongside managing my academics, I believe persistence pays off.
 
